@@ -1,1 +1,2 @@
+# Stress-Detection
 Developed a binary classification model for stress detection using Bernoulli Naive Bayes on text-based features. Collected and preprocessed text extracts from user interactions (e.g., messages, typing patterns) to analyze linguistic cues associated with stress. Binarized key features such as word usage frequency, sentiment, and presence of specific keywords achieving effective classification of "stressed" and "non-stressed" states, demonstrating potential for integration into digital health and mental well-being applications.
